@@ -1,3 +1,6 @@
-This script takes a hardcoded gird input and will provided statistics about the grid and allow the user to search the grid for a row, a column, and a point (x, y).
+This script takes a hardcoded gird input and provides statistics about the grid
+It allows the user to search the grid for a row, a column, and a point (x, y).
 
-https://repl.it/FdCQ/2
+See it live: https://repl.it/FdCi/0
+
+Based on a GIS Programing, taught at Portland State University.
